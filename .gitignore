@@ -1,0 +1,18 @@
+# Ignorar Ambiente Virtual do Python
+.venv/
+venv/
+ENV/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar pastas de editores e IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos de variáveis de ambiente
+.env
+
+# Ignorar pasta de imagens de animais
+animals/
